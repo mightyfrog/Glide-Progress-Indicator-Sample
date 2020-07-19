@@ -107,7 +107,6 @@ class ProgressAppGlideModule : AppGlideModule() {
                 listeners[url] = listener
             }
         }
-
     }
 
     private class OkHttpProgressResponseBody internal constructor(
